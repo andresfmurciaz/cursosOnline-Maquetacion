@@ -1,6 +1,14 @@
 .headerPrincipal .container {
-    
+    /* elementos uno al lado de otro */
     display: flex;
-align-items: center;
-justify-content: space-between;
+    /* elementos centrados */   
+    /* elementos alineador verticalmete */
+    align-items: center;
+    /* espacion entre los elementos */
+    justify-content: space-between;
+}
+
+.headerPrincipal-nav {
+    /* elementos uno al lado de otro */
+    display: flex;
 }
