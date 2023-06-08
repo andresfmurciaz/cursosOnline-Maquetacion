@@ -33,3 +33,10 @@ justify-content: space-between;
 
     display: flex;
 }
+
+.rodapePrincipal-navMap-list{
+    display: flex;
+    flex-direction: column;
+    height: 253px;
+    flex-wrap: wrap;
+}
