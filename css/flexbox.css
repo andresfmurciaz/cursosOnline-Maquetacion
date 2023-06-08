@@ -1,0 +1,13 @@
+
+.headerPrincpal-titulo{
+
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.headerPrincipal-nav {
+/* alinea los textos */
+    display: inline-block;
+    /* los centra */
+    vertical-align: middle;
+}
