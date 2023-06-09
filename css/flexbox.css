@@ -77,3 +77,7 @@ justify-content: space-between;
 .headerPrincipal-nav{
     flex-direction: column;
 }
+.contenidoPrincipal-cursos{
+flex-direction: column;
+
+}
