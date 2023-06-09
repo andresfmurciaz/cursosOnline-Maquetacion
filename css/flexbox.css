@@ -42,13 +42,18 @@ justify-content: space-between;
 }
 
 
-.contenidoPrincipal-cursos{
 
+
+.contenidoPrincipal-cursos{
+/* uno al lado de otro */
     display: flex;
-  flex-wrap: wrap;
+  /* rompe cada vz para que queden en secciones y no todo en una misma fila */
+    flex-wrap: wrap;
 }
 
 .contenidoPrincipal-cursos-link{
+    
     display: flex;
-    width: 20%;
+    /* para poder poner de 5 elementos tenemos que poner de a 20 ya que se divide de 5 el 100%*/
+    width: 23%;
 }
