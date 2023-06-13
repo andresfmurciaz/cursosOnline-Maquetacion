@@ -118,4 +118,15 @@ justify-content: center;
 
 }
 
+/* se cambio el html para que en celu este esto deprimnero y en escitoria este de ultimoi */
+
+.headerPrincipal-nav-link-app{
+
+    order:-1;
+}
+
+
+
+
+
 }
