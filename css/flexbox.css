@@ -74,6 +74,8 @@ justify-content: space-between;
 
 .videoSobre-video{
     flex-grow: 2;
+    flex-shrink: 2;
+    
 }
 
 
@@ -144,6 +146,10 @@ justify-content: center;
 
 
 
+.videoSobre .container{
 
+    flex-direction: column;
+
+}
 
 }
