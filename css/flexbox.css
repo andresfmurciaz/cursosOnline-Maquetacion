@@ -95,6 +95,24 @@ height: auto;
 
 }
 .videoSobre .container{
+
      flex-direction: column 
 
 }
+
+.rodapePrincipal-patrocinadores .container{
+flex-direction: column;
+}
+
+.rodapePrincipal-patrocinadores-list{
+
+width: 100%;
+margin: 0;
+ }
+  
+.rodapePrincipal-contatoForm-fieldset{
+justify-content: center;
+
+
+}
+
