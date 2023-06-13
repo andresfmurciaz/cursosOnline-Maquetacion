@@ -89,3 +89,12 @@ justify-content: space-between;
 
     width: 100%;
 }
+
+.rodapePrincipal-navMap-list{
+height: auto;
+
+}
+.videoSobre .container{
+     flex-direction: column 
+
+}
